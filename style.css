@@ -1,0 +1,165 @@
+body{
+	background-color: rgba(26, 91, 53, 1);
+	max-width: 1440px;
+    overflow: hidden;
+}
+
+.congratulation{
+	color: white;
+    text-align: center;
+    margin-top: -36px;
+    font-family: Montserrat;
+    font-size: 16px;
+
+}
+
+.title{
+	color: rgba(206, 176, 118, 1);
+    margin-left: 601px;
+    position: relative;
+    bottom: 53px;
+    font-family: Bad Script;
+    font-size: 38px;
+
+}
+.title2{
+    color: rgba(206, 176, 118, 1);
+    margin-left: 601px;
+    position: relative;
+    bottom: 53px;
+    font-family: Bad Script;
+    font-size: 38px;
+    right: 600px;
+
+}
+
+.text{
+	color: white;
+	text-align: center;
+	font-family: Open Sans;
+}
+
+.MegaCom{
+	font-family: Open Sans;
+
+}
+.img1{
+	position: relative;
+    left: 1441px;
+    bottom: 56px;
+/*    display: block;*/
+
+}
+
+.img2{
+	position: relative;
+    top: 12px;
+    right: 163px;
+
+}
+
+.img3{
+	position: relative;
+    top: 625px;
+    right: 311px;
+
+}
+
+.img4{
+	position: relative;
+    top: 373px;
+    left: 357px;
+}
+
+.img5{
+	position: relative;
+    top: 447px;
+    left: 13px;
+}
+
+.img6{
+	position: relative;
+    top: 561px;
+    right: 435px;
+
+}
+
+@media screen and (max-width: 576px) {
+    body{
+        overflow: hidden;
+        height: auto;
+
+    }
+
+    .congratulation{
+        bottom: 390px;
+        position: relative;
+        font-size: 16px;
+        padding: 10px 10px 10px 10px;
+        right: 15px;
+    }
+
+    .title{
+        position: relative;
+        right: 541px;
+        bottom: 332px;
+    }
+
+    .title2{
+        position: relative;
+        right: 411px;
+        bottom: 410px
+    }
+
+    .text{
+        position: relative;
+        bottom: 405px;
+        right: 20px;
+    }
+
+
+    .img1{
+        left: 113%;
+        display: none;
+    }
+
+
+    .img2{
+        width: 98px;
+        margin-bottom: 87px;
+        left: -9px;
+    }
+
+    .img3{
+
+    }
+
+    .img4{
+        position: relative;
+        left: 230px;
+        top: 273px;
+    }
+
+    .img5{
+        position: relative;
+        top: 305px;
+        left: -28px;
+    }
+
+    .img6{
+        position: relative;
+        left: 146px;
+        top: -267px;
+    }
+    }
+
+
+
+
+
+
+
+
+
+
+
