@@ -98,17 +98,17 @@ body{
     }
 
     .congratulation{
-        bottom: 147px;
+        bottom: 218px;
         position: relative;
         font-size: 16px;
         padding: 10px 10px 10px 10px;
-        right: -22px;
+        left: 22px;
     }
 
     .title{
         position: relative;
         left: 56px;
-        bottom: 142px;
+        bottom: 201px;
     }
 
     .title2{
@@ -119,8 +119,8 @@ body{
 
     .text{
         position: relative;
-        bottom: 148px;
-        right: -29px;
+        bottom: 214px;
+        left: 20px;
     }
 
 
@@ -141,8 +141,8 @@ body{
 
 .img4{
     position: relative;
-    left: 278px;
-    top: 531px;
+    left: 271px;
+    top: 467px;
 }
 
 .img5{
