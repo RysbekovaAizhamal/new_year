@@ -7,29 +7,32 @@ body{
 .congratulation{
 	color: white;
     text-align: center;
-    margin-top: -36px;
     font-family: Montserrat;
     font-size: 16px;
+    position: relative;
+    left: 48px;
+    bottom: 67px;
 
 }
 
 .title{
 	color: rgba(206, 176, 118, 1);
-    margin-left: 601px;
     position: relative;
     bottom: 53px;
     font-family: Bad Script;
-    font-size: 38px;
+    font-size: 54px;
+    left: 590px;
 
 }
 .title2{
     color: rgba(206, 176, 118, 1);
-    margin-left: 601px;
+
     position: relative;
     bottom: 53px;
     font-family: Bad Script;
-    font-size: 38px;
+    font-size: 54px;
     right: 600px;
+
 
 }
 
@@ -37,6 +40,9 @@ body{
 	color: white;
 	text-align: center;
 	font-family: Open Sans;
+    position: relative;
+    left: 50px;
+    bottom: 60px;
 }
 
 .MegaCom{
@@ -47,7 +53,7 @@ body{
 	position: relative;
     left: 1441px;
     bottom: 56px;
-/*    display: block;*/
+
 
 }
 
@@ -67,14 +73,14 @@ body{
 
 .img4{
 	position: relative;
-    top: 373px;
-    left: 357px;
+    top: 393px;
+    left: 337px;
 }
 
 .img5{
 	position: relative;
-    top: 447px;
-    left: 13px;
+    top: 567px;
+    left: 73px;
 }
 
 .img6{
@@ -84,7 +90,7 @@ body{
 
 }
 
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 576px){
     body{
         overflow: hidden;
         height: auto;
@@ -92,17 +98,17 @@ body{
     }
 
     .congratulation{
-        bottom: 390px;
+        bottom: 147px;
         position: relative;
         font-size: 16px;
         padding: 10px 10px 10px 10px;
-        right: 15px;
+        right: -22px;
     }
 
     .title{
         position: relative;
-        right: 541px;
-        bottom: 332px;
+        left: 56px;
+        bottom: 142px;
     }
 
     .title2{
@@ -113,8 +119,8 @@ body{
 
     .text{
         position: relative;
-        bottom: 405px;
-        right: 20px;
+        bottom: 148px;
+        right: -29px;
     }
 
 
@@ -126,32 +132,31 @@ body{
 
     .img2{
         width: 98px;
-        margin-bottom: 87px;
         left: -9px;
-    }
+}
 
-    .img3{
+.img3{
 
-    }
+}
 
-    .img4{
-        position: relative;
-        left: 230px;
-        top: 273px;
-    }
+.img4{
+    position: relative;
+    left: 278px;
+    top: 531px;
+}
 
-    .img5{
-        position: relative;
-        top: 305px;
-        left: -28px;
-    }
+.img5{
+    position: relative;
+    top: 581px;
+    left: 19px;
+}
 
-    .img6{
-        position: relative;
-        left: 146px;
-        top: -267px;
-    }
-    }
+.img6{
+    position: relative;
+    left: 146px;
+    top: -267px;
+}
+}
 
 
 
